@@ -1,5 +1,5 @@
 
-                                                       Bank Customer Churn Analysis
+                                                  Bank Customer Churn Analysis
 Introduction ON Dataset :																
 Customer Churn prediction means knowing which customers are likely to leave your service. This is because acquiring new customers often costs more than retaining existing ones. Once you’ve identified customers at risk of churn, you need to know exactly what marketing efforts you should make with each customer to maximize their likelihood of staying.
 Customers have different behaviors and preferences, and reasons for discontinuing their accounts. Therefore, it is important to actively communicate with each of them to keep them on your customer list. You need to know which marketing activities are most effective for individual customers and when they are most effective.
@@ -21,8 +21,7 @@ Customer retention
 The opposite of customer churn is customer retention. Bank can retain customers and continue to generate revenue from them. High customer loyalty enables banks to increase the profitability of their existing customers and maximize their lifetime value (LTV).
 
 
-**                                                        Case Study
-**
+                                                    Case Study
 1.  For better prediction , Calculated Credit Card holding in all countries . (Spain,France, Germany) 
 2.  In your new PivotTable, compare percentage of male & female churn customers by Tenure.
 3.  As per Country & Gender , take a count of all churn customers to focus service on.
@@ -30,7 +29,7 @@ The opposite of customer churn is customer retention. Bank can retain customers 
 5.  Insert a Slicer for Country (Spain,France, Germany) & Gender (Male, Female) then connect it to PivotTables.
 6. Create a Dashboard .
    
-                                                           **Answers**
+                                                    Answers
 
 1.  For better prediction , Calculated Credit Card holding in all countries . (Spain,France, Germany) 
 Ans. 
